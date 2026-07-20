@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.env
+outputs/pipeline_brief.md

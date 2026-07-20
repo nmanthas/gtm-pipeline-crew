@@ -1,0 +1,21 @@
+opportunity_id,account_name,opportunity_name,amount,stage,probability,close_date,last_activity_date,discount_pct,has_exec_sponsor,cpq_approval_pending
+OPP-1001,Meridian Health Systems,Meridian - Enterprise Platform Renewal,485000,Negotiation,70,2026-08-15,2026-06-28,18,True,True
+OPP-1002,Bluefin Logistics,Bluefin - VMDR Expansion,120000,Proposal,50,2026-08-30,2026-07-15,10,False,False
+OPP-1003,Cascade Financial Group,Cascade - New Logo Platform Deal,750000,Discovery,20,2026-10-31,2026-07-17,0,True,False
+OPP-1004,Northwind Manufacturing,Northwind - Compliance Add-on,95000,Negotiation,65,2026-07-31,2026-06-10,25,False,True
+OPP-1005,Solstice Retail Co,Solstice - Multi-year Enterprise Agreement,610000,Proposal,55,2026-09-15,2026-06-20,15,False,False
+OPP-1006,Ironpeak Energy,Ironpeak - Cloud Security Suite,340000,Negotiation,75,2026-08-05,2026-07-16,12,True,False
+OPP-1007,Harborlight Insurance,Harborlight - Platform Upgrade,215000,Proposal,45,2026-09-30,2026-05-29,20,False,True
+OPP-1008,Vertex Biotech,Vertex - New Logo Mid-market,88000,Discovery,25,2026-10-15,2026-07-14,0,False,False
+OPP-1009,Atlas Freight,Atlas - Renewal + Upsell,410000,Negotiation,80,2026-07-25,2026-07-18,8,True,False
+OPP-1010,Pinnacle Media Group,Pinnacle - Enterprise Expansion,530000,Proposal,50,2026-08-20,2026-06-05,22,False,True
+OPP-1011,Redwood Credit Union,Redwood - Compliance Platform,175000,Negotiation,60,2026-08-10,2026-07-01,14,False,False
+OPP-1012,Summit Aerospace,Summit - New Logo Enterprise,920000,Proposal,40,2026-11-30,2026-06-15,30,True,True
+OPP-1013,Lakeshore Hospitality,Lakeshore - VMDR Starter,45000,Discovery,30,2026-09-10,2026-07-12,5,False,False
+OPP-1014,Granite State Utilities,Granite - Multi-cloud Security,290000,Negotiation,70,2026-08-25,2026-07-10,16,True,False
+OPP-1015,Orchid Pharmaceuticals,Orchid - Platform Renewal,380000,Proposal,55,2026-09-05,2026-05-20,12,False,False
+OPP-1016,Beacon EdTech,Beacon - Mid-market New Logo,72000,Discovery,20,2026-10-20,2026-07-08,0,False,False
+OPP-1017,Falcon Ridge Bank,Falcon Ridge - Enterprise Agreement,660000,Negotiation,72,2026-08-12,2026-06-25,19,True,True
+OPP-1018,Silverline Telecom,Silverline - Expansion Deal,155000,Proposal,48,2026-09-25,2026-07-03,11,False,False
+OPP-1019,Copperfield Retail,Copperfield - Renewal,230000,Negotiation,85,2026-07-28,2026-07-17,7,True,False
+OPP-1020,Windward Marine,Windward - New Logo SMB,38000,Discovery,15,2026-11-15,2026-06-01,0,False,False
